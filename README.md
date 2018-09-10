@@ -1,0 +1,1 @@
+#This repo contains script to perform sentiment analysis on any topic on twitter using Textblob that is a Natural language processing algorithm.
